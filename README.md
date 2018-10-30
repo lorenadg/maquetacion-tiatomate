@@ -21,15 +21,20 @@ Requerimientos específicos:
 
 - Barra de navegación con fondo #FFFFFF y letras #707070
 - En barra de navegación presentación de logo.
-- barra con texto relevante al producto.
-- fotografías acompañadas de texto en su costado con fondo color negro al 80% y letras color blanco
-- fotografías acompañadas de texto en su costado con fondo blanco y letras color negro al 80%
-- En sección Nosotros presentar fotografías de sus dueños de la empresa en su costado izquierdo y en su costado derecho texto con tu descripción.
-- 
+- Barra con texto relevante al producto fondo #E5653 y letra #FFFFFF
+- Fotografía acompañadas de texto en su costado con fondo #686963 y letra #FFFFFF
+- Texto en su costado izquierdo con fondo #FAFAFA y letras #707070 y fotografía acompañadas al costado derecho.
+- En sección Nosotros presentación de barra #E56353 con texto NOSOTROS.
+- Presenta fotografía 1 de su dueña de la empresa en su costado izquierdo y en su costado derecho texto con tu descripción.
+- Presenta fotografía 2 de su dueño de la empresa en su costado izquierdo y en su costado derecho texto con tu descripción.
+- En "nosotros" background fondo #FAFAFA
+- Barra texto ¿Tomates para tu negocio? background #E56353
+- Incluye botón #FFFFFF y texto #686963
+- Footer backgroud #686963 incluye 3 icon redes sociales e información de link de la página 
 
-- Entender todos los requerimientos visuales y técnicos de la página web.
-- Crear un listado resumiendo todos los requerimientos recopilados a través del desafío.
-Construir un sketch el cuál muestre las secciones de la página, junto con la estructura HTML y CSS (clases) que decidiste hacer para esta.
-Crear otro sketch que muestre la página web pero esta vez para dispositivos móviles.
-Crear la estructura de directorios de la página web.
-Agregar todas las dependencias necesarias para la web.
+- tipografías a utilizar:
+  OpenSans-Regular
+  Raleway-Bold
+  Raleway-ExtraLight
+
+
