@@ -37,6 +37,6 @@ Requerimientos específicos:
   Raleway-Bold
   Raleway-ExtraLight
   
-  
+  ![Layout](https://github.com/DesafioLatam/E2CP2A1/blob/master/images/landing_latam.png?raw=true)
 
 
